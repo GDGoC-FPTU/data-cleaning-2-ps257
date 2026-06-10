@@ -27,7 +27,7 @@ def clean_data(input_file, output_file):
 
     seen_ids = set()
     sanitized_data = []
-
+ 
     for item in data:
         # 1. Deduplication: Ensure each id only appears once
         item_id = item.get('id')

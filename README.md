@@ -2,7 +2,7 @@
 # Morning Mini-Lab: Data Cleaning Sprint
 
 Chào mừng các bạn đến với bài Lab về **Data Sanitization**. Trong bài thực hành này, chúng ta sẽ học cách xử lý dữ liệu thô (toxic data) để đảm bảo tính an toàn (Privacy) và độ tin cậy (Reliability) trước khi đưa vào hệ thống AI.
-
+ 
 ## 1. Cấu trúc thư mục
 - `toxic_sample.json`: Dữ liệu thô chứa lỗi (PII, duplicates, outliers).
 - `mini-lab-data-cleaning.md`: Hướng dẫn chi tiết các bước thực hiện.

@@ -1,5 +1,5 @@
 import json
-
+ 
 def mask_email(email):
     """
     Masks the email address by keeping the first character of the username 
